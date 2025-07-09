@@ -1,0 +1,72 @@
+====== Start Process JobSendEmail ====== : 06/06/2024 08:46:52
+Run batch as :TECHCONS\christopher
+====== Start Process JobSendEmail ====== : 06/06/2024 08:53:14
+Run batch as :TECHCONS\christopher
+====== Start Process JobSendEmail ====== : 06/06/2024 08:55:54
+Run batch as :TECHCONS\christopher
+====== Start Process JobSendEmail ====== : 06/06/2024 08:59:43
+Run batch as :TECHCONS\christopher
+====== Start Process JobSendEmail ====== : 06/06/2024 09:02:47
+Run batch as :TECHCONS\christopher
+====== Start Process JobSendEmail ====== : 06/06/2024 09:04:35
+Run batch as :TECHCONS\christopher
+====== Start Process JobSendEmail ====== : 06/06/2024 09:05:19
+Run batch as :TECHCONS\christopher
+====== Start Process JobSendEmail ====== : 06/06/2024 09:06:59
+Run batch as :TECHCONS\christopher
+====== Start Process JobSendEmail ====== : 06/06/2024 09:08:06
+Run batch as :TECHCONS\christopher
+====== Start Process JobSendEmail ====== : 06/06/2024 09:12:18
+Run batch as :TECHCONS\christopher
+====== Start Process JobSendEmail ====== : 06/06/2024 09:23:51
+Run batch as :TECHCONS\christopher
+====== Start Process JobSendEmail ====== : 06/06/2024 09:24:44
+Run batch as :TECHCONS\christopher
+====== Start Process JobSendEmail ====== : 06/06/2024 09:35:19
+Run batch as :TECHCONS\christopher
+====== Start Process JobSendEmail ====== : 06/06/2024 09:42:31
+Run batch as :TECHCONS\christopher
+SendCalendars Error :The request failed. The remote server returned an error: (401) Unauthorized.|| DocumentNo : FR-93-016-570
+-2024-000001
+----------------------------------------------------------------------------
+====== End Process Process JobSendEmail ====== : 06/06/2024 09:42:33
+====== Start Process JobSendEmail ====== : 06/06/2024 09:42:39
+Run batch as :TECHCONS\christopher
+SendCalendars Error :The request failed. The remote server returned an error: (401) Unauthorized.|| DocumentNo : FR-93-016-570
+-2024-000001
+----------------------------------------------------------------------------
+====== End Process Process JobSendEmail ====== : 06/06/2024 09:44:11
+====== Start Process JobSendEmail ====== : 06/06/2024 09:44:23
+Run batch as :TECHCONS\christopher
+====== Start Process JobSendEmail ====== : 06/06/2024 09:51:29
+Run batch as :TECHCONS\christopher
+====== Start Process JobSendEmail ====== : 06/06/2024 09:53:08
+Run batch as :TECHCONS\christopher
+====== Start Process JobSendEmail ====== : 06/06/2024 10:15:22
+Run batch as :TECHCONS\christopher
+====== Start Process JobSendEmail ====== : 06/06/2024 10:20:46
+Run batch as :TECHCONS\christopher
+====== Start Process JobSendEmail ====== : 06/06/2024 10:33:07
+Run batch as :TECHCONS\christopher
+====== Start Process JobSendEmail ====== : 06/06/2024 10:37:01
+Run batch as :TECHCONS\christopher
+====== Start Process JobSendEmail ====== : 06/06/2024 10:39:41
+Run batch as :TECHCONS\christopher
+====== Start Process JobSendEmail ====== : 06/06/2024 10:51:53
+Run batch as :TECHCONS\christopher
+====== Start Process JobSendEmail ====== : 06/06/2024 10:53:26
+Run batch as :TECHCONS\christopher
+SendCalendars Successful. DocumentNo: FR-93-016-570
+-2024-000001
+----------------------------------------------------------------------------
+====== End Process Process JobSendEmail ====== : 06/06/2024 10:53:48
+====== Start Process JobSendEmail ====== : 06/06/2024 11:03:01
+Run batch as :TECHCONS\christopher
+SendCalendars Successful. DocumentNo: FR-93-016-570
+-2024-000001
+----------------------------------------------------------------------------
+====== End Process Process JobSendEmail ====== : 06/06/2024 11:03:08
+====== Start Process JobSendEmail ====== : 06/06/2024 11:05:35
+Run batch as :TECHCONS\christopher
+SendCalendars Successful. DocumentNo: FR-93-016-570
+-2024-000001
